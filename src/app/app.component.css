@@ -1,0 +1,10 @@
+.container {
+  margin-top: 30px;
+}
+.oddColor {
+  color: red;
+}
+.evenColor {
+  color: aqua;
+  background-color: rgb(33, 28, 28);
+}
